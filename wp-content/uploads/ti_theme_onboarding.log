@@ -1,0 +1,17 @@
+[22/Oct/2022:16:46:26] (I): WordPress Instance Info:
+[22/Oct/2022:16:46:26] (I): Home URL : http://localhost/wordpress
+[22/Oct/2022:16:46:26] (I): Site URL : http://localhost/wordpress
+[22/Oct/2022:16:46:26] (I): WordPress Version : 6.0.3
+[22/Oct/2022:16:46:26] (I): Onboarding Version : 1.1.26
+[22/Oct/2022:16:46:26] (I): Multisite : No
+[22/Oct/2022:16:46:26] (I): Server Info : Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.10
+[22/Oct/2022:16:46:26] (I): PHP Version : 8.1.10
+[22/Oct/2022:16:46:26] (I): HTTPS : No
+[22/Oct/2022:16:46:26] (I): PHP Max Execution Time : 120
+[22/Oct/2022:16:46:26] (I): PHP Max Input Vars : 1000
+[22/Oct/2022:16:46:26] (I): Max Upload Size : 41943040
+[22/Oct/2022:16:46:26] (I): Plugins:
+[22/Oct/2022:16:46:26] (I): [PLUGIN] Classic Menu Block : v0.1.5 (Jonathan Harris)
+[22/Oct/2022:16:46:26] (I): [PLUGIN] Elementor : v3.7.8 (Elementor.com)
+[22/Oct/2022:16:46:26] (I): [PLUGIN] ElementsKit Lite : v2.7.2 (Wpmet)
+[22/Oct/2022:16:46:26] (I): [PLUGIN] Templates Patterns Collection : v1.1.26 (ThemeIsle)
